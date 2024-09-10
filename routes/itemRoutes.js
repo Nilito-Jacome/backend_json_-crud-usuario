@@ -8,7 +8,7 @@ const {
 } = require('../controllers/itemController');
 
 // Definir las rutas para manejar usuarios
-router.get('/users', getUsers);
+router.get('/', getUsers);
 router.post('/users', createUser);
 router.put('/users/:idUser', updateUser);
 router.delete('/users/:idUser', deleteUser);
