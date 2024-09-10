@@ -1,0 +1,126 @@
+{
+  "idUser": [0],
+  "users": [
+    {
+      "idUser": 1,
+      "email": "santiago@example.com",
+      "password": "password45",
+      "first_name": "Santiago",
+      "last_name": "Pérez",
+      "birthday": "1991-04-15"
+    },
+    {
+      "idUser": 2,
+      "email": "maria@example.com",
+      "password": "maria123",
+      "first_name": "Maria",
+      "last_name": "González",
+      "birthday": "1988-02-24"
+    },
+    {
+      "idUser": 3,
+      "email": "carlos@example.com",
+      "password": "carlitos82",
+      "first_name": "Carlos",
+      "last_name": "Ramírez",
+      "birthday": "1982-09-30"
+    },
+    {
+      "idUser": 4,
+      "email": "laura@example.com",
+      "password": "laura2020",
+      "first_name": "Laura",
+      "last_name": "Martínez",
+      "birthday": "1995-12-10"
+    },
+    {
+      "idUser": 5,
+      "email": "andres@example.com",
+      "password": "andres85",
+      "first_name": "Andrés",
+      "last_name": "Fernández",
+      "birthday": "1985-05-05"
+    },
+    {
+      "idUser": 6,
+      "email": "lucia@example.com",
+      "password": "lucy1234",
+      "first_name": "Lucía",
+      "last_name": "Hernández",
+      "birthday": "1990-07-07"
+    },
+    {
+      "idUser": 7,
+      "email": "juan@example.com",
+      "password": "juanito007",
+      "first_name": "Juan",
+      "last_name": "Gómez",
+      "birthday": "1993-03-21"
+    },
+    {
+      "idUser": 8,
+      "email": "camila@example.com",
+      "password": "camila321",
+      "first_name": "Camila",
+      "last_name": "Morales",
+      "birthday": "1997-11-02"
+    },
+    {
+      "idUser": 9,
+      "email": "fernando@example.com",
+      "password": "fer1985",
+      "first_name": "Fernando",
+      "last_name": "Rojas",
+      "birthday": "1985-01-19"
+    },
+    {
+      "idUser": 10,
+      "email": "sofia@example.com",
+      "password": "sofia456",
+      "first_name": "Sofía",
+      "last_name": "Castillo",
+      "birthday": "1994-04-04"
+    },
+    {
+      "idUser": 11,
+      "email": "diego@example.com",
+      "password": "diego159",
+      "first_name": "Diego",
+      "last_name": "Ortega",
+      "birthday": "1992-10-12"
+    },
+    {
+      "idUser": 12,
+      "email": "valentina@example.com",
+      "password": "vale2022",
+      "first_name": "Valentina",
+      "last_name": "Delgado",
+      "birthday": "1996-06-28"
+    },
+    {
+      "idUser": 13,
+      "email": "daniel@example.com",
+      "password": "daniel007",
+      "first_name": "Daniel",
+      "last_name": "Cruz",
+      "birthday": "1989-12-18"
+    },
+    {
+      "idUser": 14,
+      "email": "natalia@example.com",
+      "password": "natalia123",
+      "first_name": "Natalia",
+      "last_name": "Mejía",
+      "birthday": "1998-03-14"
+    },
+    {
+      "idUser": 15,
+      "email": "roberto@example.com",
+      "password": "roberto85",
+      "first_name": "Roberto",
+      "last_name": "Vargas",
+      "birthday": "1985-08-22"
+    }
+  ],
+  "nextId": 16
+}
