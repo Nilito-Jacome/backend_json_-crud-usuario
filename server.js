@@ -15,7 +15,7 @@ app.use(express.json());
 app.use(cors());
 
 // Usar las rutas CRUD
-app.use('/api', itemRoutes);
+app.use('/', itemRoutes);
 
 // Arrancar el servidor
 app.listen(PORT, () => {
